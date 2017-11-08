@@ -34,14 +34,22 @@
 
 ## Installing RStudio  
 
-* If you have already installed RStudio, before you skip this section check if you are using the right R version. Go to `Tools/Global Options`. Make you sure you have `R-3.4.2` under R version.    
+* If you have already installed RStudio, before you skip this section check if you are using the right R version. Go to `Tools/Global Options`. Make you sure you have `R-3.4.2` under R version.  
+
 <img src="Figures/RStudio_Rversion.PNG" alt="" width="300"/> 
+
 * Go to http://www.rstudio.com/ and under `RStudio` click on `Download` .  
+
 <img src="Figures/download_RStudio01.PNG" alt="" width="300"/>
+
 * Under `RStudio Desktop`, select `DOWNLOAD`  
+
 <img src="Figures/download_RStudio02.PNG" alt="" width="250"/>
+
 * Download the installer for Windows.  
+
 <img src="Figures/download_RStudio03.PNG" alt="" width="250"/>
+
 * Open and run the file you just downloaded `RStudio-1.1.383.exe` 
 
 <img src="Figures/download_RStudio04.PNG" alt="" width="100"/>
@@ -50,7 +58,7 @@
 
 |  |  |  |
 |:-------------:|:-------------:|:-------------:|
-|<img src="Figures/install_RStudio00.PNG" alt="" width="250"/> | <img src="Figures/install_RStudio01.PNG" alt="" width="250" style="PADDING-LEFT: 5px; PADDING-RIGHT: 5px;"/>|<img src="Figures/install_RStudio02.PNG" alt="" width="250"/>|
+|<img src="Figures/install_RStudio00.PNG" alt="" width="200"/> | <img src="Figures/install_RStudio01.PNG" alt="" width="250" style="PADDING-LEFT: 5px; PADDING-RIGHT: 5px;"/>|<img src="Figures/install_RStudio02.PNG" alt="" width="250"/>|
 |**1**|**2**|**3**|
 |<img src="Figures/install_RStudio03.PNG" alt="" width="250"/> | <img src="Figures/install_RStudio04.PNG" alt="" width="250" style="PADDING-LEFT: 5px; PADDING-RIGHT: 5px;"/>| <img src="Figures/install_RStudio05.PNG" alt="" width="250"/> |
 |**4**|**5**|**6**|
@@ -58,9 +66,13 @@
 
 ## Installing devtools
 * Open Rstudio, in the **Files/Plots/Packages/Help** panel, select **Packages** and then click on **Install** 
+
 <img src="Figures/devtools00.png" alt="" width="400"/>
-* Type `devtools` under **Packages**, make sure you spell the name of the package correctly. Then, click on **Install**  
+
+* Type `devtools` under **Packages**, make sure you spell the name of the package correctly. Then, click on **Install** 
+
 <img src="Figures/devtools01.png" alt="" width="400"/>  
+
 * Alternatively, you can run the following command in the console.  
 
 ```
