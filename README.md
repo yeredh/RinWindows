@@ -3,11 +3,17 @@
 ## Installing R
 * Open your browser and go to http://cran.r-project.org/  
 * Click on `Download R for Windows`  
-<img src="Figures/download_R01.PNG" alt="" style="width: 200"/>
+
+<img src="Figures/download_R01.PNG" alt="" width="300"/>
+
 * Click on `base`  
-<img src="Figures/download_R02.PNG" alt="" style="width: 200"/>
-* Click on `Download R 3.1.2 for Windows`    
-<img src="Figures/download_R03.PNG" alt="" style="width: 200"/>
+
+<img src="Figures/download_R02.PNG" alt="" width="300"/>
+
+* Click on `Download R 3.1.2 for Windows`   
+
+<img src="Figures/download_R03.PNG" alt="" width="300"/>
+
 * Open and run the file you just downloaded `R-3.4.2-win.exe` 
 
 <img src="Figures/download_R04.PNG" width="100"/>
@@ -26,16 +32,17 @@
 | **10** | **11** | **12** |
 
 
-## Installing RStudio
+## Installing RStudio  
+
 * If you have already installed RStudio, before you skip this section check if you are using the right R version. Go to `Tools/Global Options`. Make you sure you have `R-3.4.2` under R version.    
-<img src="Figures/RStudio_Rversion.PNG" alt="" width="400"/>
-* Go to http://www.rstudio.com/ and under `RStudio` click on `Download`.  
-<img src="Figures/download_RStudio01.PNG" alt="" width="400"/>
+<img src="Figures/RStudio_Rversion.PNG" alt="" width="300"/> 
+* Go to http://www.rstudio.com/ and under `RStudio` click on `Download` .  
+<img src="Figures/download_RStudio01.PNG" alt="" width="300"/>
 * Under `RStudio Desktop`, select `DOWNLOAD`  
-<img src="Figures/download_RStudio02.PNG" alt="" width="400"/>
+<img src="Figures/download_RStudio02.PNG" alt="" width="250"/>
 * Download the installer for Windows.  
-<img src="Figures/download_RStudio03.PNG" alt="" width="400"/>
-* Open and run the file you just downloaded `RStudio-1.1.383.exe`  
+<img src="Figures/download_RStudio03.PNG" alt="" width="250"/>
+* Open and run the file you just downloaded `RStudio-1.1.383.exe` 
 
 <img src="Figures/download_RStudio04.PNG" alt="" width="100"/>
 
@@ -55,17 +62,21 @@
 * Type `devtools` under **Packages**, make sure you spell the name of the package correctly. Then, click on **Install**  
 <img src="Figures/devtools01.png" alt="" width="400"/>  
 * Alternatively, you can run the following command in the console.  
+
 ```
 install.packages("devtools")
 ```
 ## Installing packages from GitHub
 * We are ready to install R packages from GitHub 
 * First we need to load the `devtools` package
-```{r}
+
+```
 library(devtools)
 ```
+
 * Now we can install the `gapminder` package.  
-```{r}
+
+```
 install_github("jennybc/gapminder")
 ```
 
