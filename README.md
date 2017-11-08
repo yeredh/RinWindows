@@ -58,7 +58,7 @@
 
 |  |  |  |
 |:-------------:|:-------------:|:-------------:|
-|<img src="Figures/install_RStudio00.PNG" alt="" width="200"/> | <img src="Figures/install_RStudio01.PNG" alt="" width="250" style="PADDING-LEFT: 5px; PADDING-RIGHT: 5px;"/>|<img src="Figures/install_RStudio02.PNG" alt="" width="250"/>|
+|<img src="Figures/install_RStudio00.png" alt="" width="200"/> | <img src="Figures/install_RStudio01.PNG" alt="" width="250" style="PADDING-LEFT: 5px; PADDING-RIGHT: 5px;"/>|<img src="Figures/install_RStudio02.PNG" alt="" width="250"/>|
 |**1**|**2**|**3**|
 |<img src="Figures/install_RStudio03.PNG" alt="" width="250"/> | <img src="Figures/install_RStudio04.PNG" alt="" width="250" style="PADDING-LEFT: 5px; PADDING-RIGHT: 5px;"/>| <img src="Figures/install_RStudio05.PNG" alt="" width="250"/> |
 |**4**|**5**|**6**|
