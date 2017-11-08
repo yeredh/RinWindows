@@ -22,7 +22,7 @@
 
 |  |  |  |
 |:-------------:|:-------------:|:-------------:|
-| <img src="Figures/install_R00.PNG" alt="" width="175" /> | <img src="Figures/install_R01.PNG" alt="" width="175"/>| <img src="Figures/install_R02.PNG" alt="" width="250"/> |
+| <img src="Figures/install_R00.png" alt="" width="175" /> | <img src="Figures/install_R01.PNG" alt="" width="175"/>| <img src="Figures/install_R02.PNG" alt="" width="250"/> |
 | **1** | **2** | **3** |
 | <img src="Figures/install_R03.PNG" alt="" width="250" /> | <img src="Figures/install_R04.PNG" alt="" width="250" style="PADDING-LEFT: 5px; PADDING-RIGHT: 5px;"/>| <img src="Figures/install_R05.PNG" alt="" width="250"/> |
 | **4** | **5** | **6** |
